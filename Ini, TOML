@@ -1,0 +1,10 @@
+[book]
+authors = ["你的名字"]
+language = "zh-TW"
+multilingual = false
+src = "src"
+title = "戰爭都市生存指南"
+
+[output.html]
+default-theme = "navy"
+preferred-dark-theme = "navy"
